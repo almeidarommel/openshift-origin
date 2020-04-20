@@ -21,10 +21,10 @@
 			"value": "mycluster"
 		},
 		"masterInstanceCount": {
-			"value": 3
+			"value": 1
 		},
 		"infraInstanceCount": {
-			"value": 3
+			"value": 1
 		},
 		"nodeInstanceCount": {
 			"value": 2
